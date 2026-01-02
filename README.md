@@ -28,13 +28,6 @@ cd Desktop\business-python\cli-todo
 2. プログラムの実行
 python todo_list.py
 
-
-- `1` : 
-- `2` : 
-- `3` : 
-- `4` : 
-
-
 3. 操作方法
 起動後、以下のメニューが表示されます。
 1:追加 2:表示 3:完了切替 4:終了
