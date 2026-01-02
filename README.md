@@ -29,18 +29,11 @@ cd Desktop\business-python\cli-todo
 python todo_list.py
 
 3. 操作方法
-
 起動後、以下のメニューが表示されます。
-
 1:追加 2:表示 3:完了切替 4:終了
-
-
 1 : TODOを追加
-
 2 : TODO一覧を表示
-
 3 : TODOの完了／未完了を切り替え
-
 4 : プログラムを終了（データは自動保存）
 
 **## 工夫した点**
