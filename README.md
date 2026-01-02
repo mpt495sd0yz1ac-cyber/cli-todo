@@ -36,7 +36,7 @@ python todo_list.py
 3 : Toggle completion status(TODOの完了／未完了を切り替え)
 4 : Exit program (data is automatically saved)プログラムを終了（データは自動保存）
 
-**## 工夫した点**
+## 工夫した点
 - 処理ごとに関数を分け、可読性を意識しました
 - JSON形式でデータを保存し、データの永続化を行いました
 - 標準ライブラリのみで動作するよう設計しました
