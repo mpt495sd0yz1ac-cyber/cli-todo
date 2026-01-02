@@ -23,7 +23,7 @@ Pythonの基礎文法の理解を目的として、
 ### 1. リポジトリのクローン
 ```bash
 git clone https://github.com/mpt495sd0yz1ac-cyber/cli-todo.git
-cd cli-todo
+cd Desktop\business-python\cli-todo
 
 **## 工夫した点**
 - 処理ごとに関数を分け、可読性を意識しました
