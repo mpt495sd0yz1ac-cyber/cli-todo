@@ -32,10 +32,10 @@ python todo_list.py
 起動後、以下のメニューが表示されます。
 1: Add 2: Show 3: Toggle 4: Exit
 
-1 : Add a TODO(TODOを追加)
-2 : Show TODO list(TODO一覧を表示)
-3 : Toggle completion status(TODOの完了／未完了を切り替え)
-4 : Exit program (data is automatically saved)プログラムを終了（データは自動保存）
+1 : TODOを追加
+2 : TODO一覧を表示
+3 : TODOの完了／未完了を切り替え
+4 :プログラムを終了（データは自動保存）
 
 ## 工夫した点
 - 処理ごとに関数を分け、可読性を意識しました
