@@ -30,7 +30,8 @@ python todo_list.py
 
 3. 操作方法
 起動後、以下のメニューが表示されます。
-1:追加 2:表示 3:完了切替 4:終了
+1: Add 2: Show 3: Toggle 4: Exit
+
 1 : Add a TODO(TODOを追加)
 2 : Show TODO list(TODO一覧を表示)
 3 : Toggle completion status(TODOの完了／未完了を切り替え)
